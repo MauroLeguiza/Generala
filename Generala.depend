@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1593784991 source:c:\users\mauro\desktop\generala\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	"fungen.h"
+	"windows.h"
+	<ctime>
+
+1593792295 c:\users\mauro\desktop\generala\generala\fungen.h
+
+1593792295 source:c:\users\mauro\desktop\generala\generala\fungen.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"windows.h"
+
+1594648719 source:c:\users\mauro\desktop\generala2.0\fungen.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"windows.h"
+
+1594645521 source:c:\users\mauro\desktop\generala2.0\main.cpp
+	<iostream>
+	<cstdlib>
+	"fungen.h"
+	"windows.h"
+	<ctime>
+
+1594590967 c:\users\mauro\desktop\generala2.0\fungen.h
+
+1594648720 source:b:\mis cosas\tsp\1 cuatrimestre\laboratorio de computacion\generala2.0\fungen.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"windows.h"
+
+1594645522 source:b:\mis cosas\tsp\1 cuatrimestre\laboratorio de computacion\generala2.0\main.cpp
+	<iostream>
+	<cstdlib>
+	"fungen.h"
+	"windows.h"
+	<ctime>
+
+1594590968 b:\mis cosas\tsp\1 cuatrimestre\laboratorio de computacion\generala2.0\fungen.h
+
